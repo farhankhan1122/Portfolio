@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +16,6 @@ Currently, two official plugins are available:
 - using Inter font from google font 
 - for background - tailwind background snippet (Background Snippets: https://bg.ibelick.com/)
 
+=======
+# Portfolio
+>>>>>>> 1d0370a93c533814ffbc039c7d33f8129cbf4603
