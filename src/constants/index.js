@@ -78,7 +78,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "House no 155 , Tdi city , sector 118, Mohali, Punjab ",
+  address: "B-66/5 , Gali no. 4 , Shakarpur, New delhi ",
   phoneNo: "+91 8750095171 ",
   email: "farhankhan10794@gmail.com",
 };
