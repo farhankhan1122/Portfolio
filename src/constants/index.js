@@ -3,6 +3,7 @@ import project2 from "../assets/projects/fahdu-brands.png";
 import project3 from "../assets/projects/portfolio.png";
 import project4 from "../assets/projects/fahdu-website.png";
 import project5 from "../assets/projects/fahdu-admin-blog.png";
+import project6 from "../assets/projects/crave-express.png"
 
 export const HERO_CONTENT_HEADING = `Passionate Software Developer | Front-End & Web Application Specialist`;
 
@@ -46,6 +47,15 @@ export const PROJECTS = [
     description:
       "Fahdu is a content monetization tool that enables users to create, connect, inspire, and generate revenue in real time",
     technologies: ["HTML", "CSS", "React.js", "Nextjs", "Tailwind"],
+    link: "https://www.fahdu.com/"
+  },
+  {
+    title: "craveExpress",
+    image: project6,
+    description:
+      "CraveExpress is an online food ordering web application that allows users to browse, filter, and order food from various restaurants. The application is powered by real-time restaurant data from the Swiggy API, providing users with an up-to-date menu and restaurant information.",
+    technologies: ["Swiggy API","Custom Hooks", "React", "Redux","Javascript", "Tailwind"],
+    link: "https://cravexpress.netlify.app/"
   },
   {
     title: "Fahdu Webapp",
@@ -53,6 +63,7 @@ export const PROJECTS = [
     description:
       "A fully functional content monetization platform with features like Home feeds, Referral, chat module, and user authentication.",
     technologies: ["Angular", "Typescript", "Bootstrap","Angular material"],
+    link: "https://app.fahdu.com"
   },
   {
     title: "Fahdu Brands",
@@ -78,7 +89,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "B-66/5 , Gali no. 4 , Shakarpur, New delhi ",
+  address: "Tdi city 1, Mohali",
   phoneNo: "+91 8750095171 ",
   email: "farhankhan10794@gmail.com",
 };
